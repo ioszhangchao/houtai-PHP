@@ -3,7 +3,7 @@
 /*
 echo "Hello, World!";
 author：张三丰，zhangsanfeng
-123456@qq.com
+100721001@qq.com
             // 磁盘路径
             'root'       => app()->getRootPath() . 'public/storage',
 // +----------------------------------------------------------------------
